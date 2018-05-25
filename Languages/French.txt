@@ -1,0 +1,12 @@
+Configurer
+Combattre
+Mouvement
+Joueur
+Monde
+Autre
+Createurs
+Sortie
+Oui
+Non
+Update
+Joindre Discord
