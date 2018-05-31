@@ -45,8 +45,12 @@ we grab json that contains the new version number
 function getUpdate() {
 var url = "https://raw.githubusercontent.com/ArceusMatt/Dragon/master/version.json";
 var content = ModPE.getFromUrl(url);
+if(typeof(content) != "undefined" || content != 0 || content != null || content != ""){
 var update2 = ModPE.JSON.parse(content);
 var newupdate = update2.version;
+if(typeof(newupdate) != "undefined"){
 if (version != newupdate)print("New update "+newupdate);
+}
+}
 }
 getUpdate();
