@@ -1,10 +1,10 @@
 {"name":"Dragon",
-"version":"1.4",
-"changelog":"Spam bypass settings,\nCommands(use !help),\nMcpe color settings,\nESP color settings,\nCheck update button,\nPromoted servers,\nFixed ghost button,\nAdd EXP,\nNo more solid colors,\nImprovements,\nNew god enchant -> old god enchant,\nElevator height settings,\nReduced bulky dialogs,\nIP/domain query(may not work)",
+"version":"1.5",
+"changelog":"Coming soon",
 "something":"0",
 "tuts":["• Realms enchant (1.4)\n1) Enchant item\n2) Place in crafting table\n3) Exit table.\n","• Realms give (1.4)\n1) Open player category\n2) Choose <set offhand>\n3) Give the item\n4) Put offhand item in hotbar.\n","• Bypass IP ban\n1) Search VPN in playstore\n2) Choose most downloaded\n3) Turn it on.\n","• Bypass device ban\n1) MCPE storage to external\n2) Open other category\n3) Tap delete CID.\n","• Vote more daily\n1) Search VPN in playstore\n2) Choose most downloaded\n3) Turn it on\n4) Vote with random name\n5) Change device date\n6) Change VPN region\n7) Repeat to vote more.\n","• Delete PG chests\n1) Use bucket of water\n2) Place water on same block\nthe chest is on/under chest\n3) Pick up chest & water.\n","• Get inside HCF bases\n1) Open world category\n2) Choose nullify doors/gates\n3) Walk through gates.\n"],
 "domains":["pe.xenodim.ml","play.moonforce.eu"],
 "ips":["193.70.80.3","64.52.86.81"],
 "ports":["19132","19132"],
-"news":"Enjoy dragon 1.4! 1.5 will be coming soon.",
+"news":"Enjoy dragon beta! 1.5 will be coming soon.",
 "info":"Dragon is a mod for MCPE 1.4.+\nIt is mainly meant for servers & realms so some features will not be added.\nDragons design is customizable in settings.\nBypasses will be coming soon.\nDragon is based off alphahack & MCPC clients.\nMCPC design coming soon.\nWe plan to make dragon the best there is."}
